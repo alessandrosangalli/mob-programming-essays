@@ -17,3 +17,7 @@ Rewarding flow: we never fell blocked by ourselves, it feels great.
 Sharing knowledge: Misunderstoods, forgetfulness and mistakes can occur, but when mobbing this is detected instantly. The cost of a person's lack of knowledge is often very high and is never accounted for.
 
 Get the best of your team: everybody has good and bad skills, mob makes you match and use your high points.
+
+## On QA
+QA people need to be an active voice
+The process of development should be guided by tests on story and acceptance criteria
