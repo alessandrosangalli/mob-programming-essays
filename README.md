@@ -18,6 +18,8 @@ Sharing knowledge: Misunderstoods, forgetfulness and mistakes can occur, but whe
 
 Get the best of your team: everybody has good and bad skills, mob makes you match and use your high points.
 
+Navigators must have confidence that the driver will do what is asked.
+
 ## On QA
 QA people need to be an active voice
 The process of development should be guided by tests on story and acceptance criteria
